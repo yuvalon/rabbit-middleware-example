@@ -1,0 +1,29 @@
+{
+  "name": "rabbit_middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leyndarmal/rabbit-middleware-example"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leyndarmal/rabbit-middleware-example/issues"
+  },
+  "homepage": "https://github.com/leyndarmal/rabbit-middleware-example#readme",
+  "dependencies": {
+    "@sentry/node": "^4.6.4",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "object-path": "^0.11.4"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
+}
