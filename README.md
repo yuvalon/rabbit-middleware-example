@@ -27,6 +27,7 @@
 ## More Info
 * The middleware uses redis cache memory, in order to store and retrieve the relevant "status" of the system (paused or not)
 * The middleware is stateless, which means we can have multiple instances of it - scaling.
+* The messaging functionality can be found in the <a href="https://github.com/leyndarmal/infra">"Infra"</a> repository.
 
 
 
