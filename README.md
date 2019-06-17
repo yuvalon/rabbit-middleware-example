@@ -1,4 +1,3 @@
-# rabbit_middleware_example
 
 <h1 align="center">
    Rabbit Middleware Component
