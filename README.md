@@ -14,7 +14,7 @@
 
 
 ## Background
-* This component is originally taken from a personal project, where there are multiple services that communicate with eacher by messasging
+* This component is originally taken from a personal project, where there are multiple services that communicate with each other by messasging
 * There was a requirenment, to "control", or "interfere", with some of the messages before they get to the destination
 * This was achieved by setting up this component, that does the following:
   - Upon instantiation, the middleare "listens" to a mutual queue for all differnet services
