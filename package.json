@@ -20,7 +20,7 @@
     "@sentry/node": "^4.6.4",
     "bluebird": "^3.5.3",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "object-path": "^0.11.4"
   },
   "devDependencies": {
